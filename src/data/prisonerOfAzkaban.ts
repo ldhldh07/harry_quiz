@@ -1,6 +1,5 @@
 import { Question } from "./philoshphersStone";
 
-// src/data/questionsPrisonerOfAzkaban.ts
 export const questionsPrisonerOfAzkaban: Question[] = [
   { id: 1, type: 'multiple', question: '론이 키우는 쥐의 이름은?', answer: '스캐버스', options: ['제리', '크룩생크', '헤드위그'] },
   { id: 2, type: 'multiple', question: '호그와트에서 어디를 방문하기 위해 보호자의 승인을 받아오라고 했을까요?', answer: '호그스미드', options: ['다이애건 앨리', '녹턴 앨리', '아즈카반'] },

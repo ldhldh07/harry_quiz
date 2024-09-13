@@ -3,7 +3,7 @@ import React, { useState, FormEvent } from 'react';
 import styled from 'styled-components';
 import { useParams } from 'react-router-dom';
 import { Question, questionsPhilosophersStone } from '../data/philoshphersStone';
-import { questionsChamberOfSecrets } from '../data/ChamberOfSecrets';
+import { questionsChamberOfSecrets } from '../data/chamberofsecrets';
 import { questionsPrisonerOfAzkaban } from '../data/prisonerOfAzkaban';
 
 const QuizContainer = styled.div`
